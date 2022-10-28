@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sarah</h1>
 <h3 align="center">A passionate backend developer from Egypt</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sarahtarek97&label=Profile%20views&color=0e75b6&style=flat" alt="sarahtarek97" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sarahtarek97" alt="sarahtarek97" /></a> </p>
-
 - 🔭 I’m currently working on [Elevenstats](https://www.elevenstats.com)
 
 - 🌱 I’m currently learning **Database modeling**
