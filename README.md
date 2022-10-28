@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sarah</h1>
-<h3 align="center">A passionate backend developer from Egypt</h3>
+<h3 align="center">A passionate Software developer from Egypt</h3>
 
 - 🔭 I’m currently working on [Elevenstats](https://www.elevenstats.com)
 
